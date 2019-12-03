@@ -4,8 +4,6 @@
 
 ## 설명 동영상
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=GBNWi4JY2X8" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-
 [![video](http://img.youtube.com/vi/GBNWi4JY2X8/0.jpg)](https://www.youtube.com/watch?v=GBNWi4JY2X8)
 
 ### [게임 설명](https://yes-today.tistory.com/393)
