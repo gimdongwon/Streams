@@ -6,8 +6,15 @@
 
 <iframe width="640" height="360" src="https://www.youtube.com/watch?v=GBNWi4JY2X8" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
+[![video](http://img.youtube.com/vi/GBNWi4JY2X8/0.jpg)](https://www.youtube.com/watch?v=GBNWi4JY2X8)
+
 ### [게임 설명](https://yes-today.tistory.com/393)
 
 초간단 Streams 게임입니다.
 
 기본적인 로직은 완료 하였고 이미지와 애니메이션을 붙일 예정입니다.
+
+## 남은 진행사항
+
+- 게임에 맞는 이미지 찾기
+- 애니메이션 구현 방법 선택하기 및 디자인
