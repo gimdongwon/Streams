@@ -58,7 +58,6 @@ const GameRoom = () => {
 	let targetNumber = numberPocket[Math.floor(Math.random() * numberPocket.length)];
 
 	const contractNum = () => {
-		console.log(numberPocket.indexOf(targetNumber));
 		// 숫자 빼기
 		numberPocket.splice(numberPocket.indexOf(targetNumber), 1);
 
@@ -78,12 +77,7 @@ const GameRoom = () => {
 
 		// 횟수 측정
 		setGarbageNum(garbageNum - 1);
-
-		console.log(numberPocket);
 	};
-	useEffect(() => {
-		// console.log(targetNumber, numberPocket);
-	});
 
 	return (
 		<div className="GameRoom">
