@@ -16,3 +16,5 @@
 
 - 게임에 맞는 이미지 찾기
 - 애니메이션 구현 방법 선택하기 및 디자인
+
+[게임하러가기](https://workshop-streams.netlify.com/)
