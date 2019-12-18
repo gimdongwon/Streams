@@ -12,6 +12,14 @@
 
 기본적인 로직은 완료 하였고 이미지와 애니메이션을 붙일 예정입니다.
 
+![gamed](http://mblogthumb1.phinf.naver.net/MjAxOTA4MjhfMTE4/MDAxNTY2OTg0NDk2NzA1.irGOdcEpyCPSxlaJNeetimc_6aJGTtNfyAniaQW-Prgg.D6pS3U_eZo-itWWwRpzNIoVX7jTbf23B3tZpT4rS_5kg.PNG.uhgene/3.PNG?type=w800)
+
+### 세줄요약
+
+- 1~10 까지 1개 11~20 까지 2개씩 21~30 까지 1개, 조커 1개의 총 41개의 랜덤 숫자를 가짐.
+- 랜덤으로 숫자를 20개를 차례대로 선출하여 턴마다 1개씩 숫자를 분배
+- 오름차순으로 계산하여 최고 승점을 가진 사람이 승리. 
+
 ## 남은 진행사항
 
 - 게임에 맞는 이미지 찾기
