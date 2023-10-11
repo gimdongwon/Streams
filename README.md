@@ -1,4 +1,4 @@
-![image](https://github.com/gimdongwon/Streams/assets/37524650/ca843d4a-7d01-4ab0-bf59-08dde600e743)# Streams Game
+# Streams Game
 
 ![streams image](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F20696840517663AE07)
 
