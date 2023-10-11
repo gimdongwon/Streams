@@ -1,4 +1,4 @@
-# Streams Game
+![image](https://github.com/gimdongwon/Streams/assets/37524650/ca843d4a-7d01-4ab0-bf59-08dde600e743)# Streams Game
 
 ![streams image](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F20696840517663AE07)
 
@@ -13,6 +13,7 @@
 기본적인 로직은 완료 하였고 이미지와 애니메이션을 붙일 예정입니다.
 
 ![gamed](http://mblogthumb1.phinf.naver.net/MjAxOTA4MjhfMTE4/MDAxNTY2OTg0NDk2NzA1.irGOdcEpyCPSxlaJNeetimc_6aJGTtNfyAniaQW-Prgg.D6pS3U_eZo-itWWwRpzNIoVX7jTbf23B3tZpT4rS_5kg.PNG.uhgene/3.PNG?type=w800)
+![note](https://blog.kakaocdn.net/dn/UBaus/btrjcai4an2/B6b40wJ0gSHzGV9B2EIVmk/img.png)
 
 ### 세줄요약
 
